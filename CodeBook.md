@@ -17,6 +17,6 @@
      - Combine the the three merged dataset and build a new dataset named "newdata".
      - Extract only the measurements on the mean and standard deviation for each measurement, and build a new dataset called "newdata2".
      - Name the activitis correctly using the names from "actlabels" and saved the newdataset in "newdata2" dataset. And Appropriately labels the data.   
-     - Save the dataset, which named as "Jointdata" in a ".txt" format.
-     - Create an independent tidy data set with the average of each variable for each activity and each subject.And save the dataset called "Tidydata" in a ".txt" format. 
- 
+     - Save the dataset, which named as "Jointdata" in a ".txt" format. This is a 10299x68 data frame. 
+     - Create an independent tidy data set with the average of each variable for each activity and each subject.And save the dataset called "Tidydata" in a ".txt" format. This is a 180x68 data frame.
+  
